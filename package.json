@@ -1,0 +1,19 @@
+{
+  "name": "jest_another_rpg",
+  "version": "1.0.0",
+  "description": "Command-line role-playing game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paperpatch/jest_another_RPG.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paperpatch/jest_another_RPG/issues"
+  },
+  "homepage": "https://github.com/paperpatch/jest_another_RPG#readme"
+}

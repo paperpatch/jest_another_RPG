@@ -30,7 +30,7 @@ Start the application by running `node app` in the command line.
 
 Either fork or clone this repository and open the files within to access the command prompt.
 
-Run `node node` in the command line and it will give out a series of prompts in which you will fight against 3 monsters consecutively. You will be given different types of potions to help you in your battle.
+Run `node app` in the command line and it will give out a series of prompts in which you will fight against 3 monsters consecutively. You will be given different types of potions to help you in your battle.
 
 ## Contributing
 
